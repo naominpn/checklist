@@ -1,0 +1,14 @@
+.item{
+    user-select: none;
+}
+
+.completed{
+    color:gray;
+    text-decoration: line-through;
+    font-size: 0.5em;
+}
+
+.toDark{
+    background-color: Black;
+    color: white;
+}
